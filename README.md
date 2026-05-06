@@ -6,6 +6,8 @@
 ｢ねえ聞いてよ、｣で充実した思い出を残そう。  
 AIとのチャット形式で日記を作成するwebアプリです。
 
+## スライド
+https://docs.google.com/presentation/d/14vMjdI7lIXOCuJzLdsrLxZfBCUXR1j3cASJJJRCXviQ/edit?usp=sharing
 
 # 開発者用
 ## 実行方法
