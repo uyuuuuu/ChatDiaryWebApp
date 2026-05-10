@@ -6,6 +6,9 @@
 ｢ねえ聞いてよ、｣で充実した思い出を残そう。  
 AIとのチャット形式で日記を作成するwebアプリです。
 
+## 担当
+プロジェクトリーダー、バックエンド、UIデザイン、ロゴデザイン
+
 ## スライド
 https://docs.google.com/presentation/d/14vMjdI7lIXOCuJzLdsrLxZfBCUXR1j3cASJJJRCXviQ/edit?usp=sharing
 <img width=70% alt="ChatDiary_Slide" src="https://github.com/user-attachments/assets/43f78ba3-331d-4535-8bf0-ac68595c0e12" />
