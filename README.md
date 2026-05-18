@@ -11,6 +11,7 @@ AIとのチャット形式で日記を作成するwebアプリです。
 
 ## スライド
 https://docs.google.com/presentation/d/14vMjdI7lIXOCuJzLdsrLxZfBCUXR1j3cASJJJRCXviQ/edit?usp=sharing
+
 <img width=70% alt="ChatDiary_Slide" src="https://github.com/user-attachments/assets/43f78ba3-331d-4535-8bf0-ac68595c0e12" />
 <img width=70% alt="ChatDiary_Slide (1)" src="https://github.com/user-attachments/assets/ff28a26c-6211-40a9-a86f-b2216f957bed" />
 <img width=70% alt="ChatDiary_Slide (2)" src="https://github.com/user-attachments/assets/6fbfc9f7-26ea-4890-a66a-2b6198316bc0" />
