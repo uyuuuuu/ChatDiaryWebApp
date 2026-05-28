@@ -25,7 +25,7 @@ export async function updateAnalysesFB(userId: string) {
       const genAI = new GoogleGenerativeAI(apiKey);
       // モデルの取得
       const model = genAI.getGenerativeModel({
-        model: "gemini-1.5-flash",
+        model: "gemini-2.5-flash-lite",
         generationConfig: { temperature: 1, maxOutputTokens: 254 },
       }); // 使用モデル指定
 

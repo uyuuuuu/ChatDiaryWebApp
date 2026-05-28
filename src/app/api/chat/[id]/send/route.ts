@@ -65,7 +65,7 @@ export async function POST(
     const genAI = new GoogleGenerativeAI(apiKey);
     // モデルの取得
     const model = genAI.getGenerativeModel({
-      model: "gemini-1.5-flash",
+      model: "gemini-2.5-flash-lite",
       generationConfig: { temperature: 1 },
     }); // 使用モデル指定
     //過去のログの生成
