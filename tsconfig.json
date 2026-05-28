@@ -8,28 +8,38 @@
     "resolveJsonModule": true,
     "moduleDetection": "force",
     "isolatedModules": true,
-
     /* Strictness */
     "strict": true,
     "noUncheckedIndexedAccess": true,
     "checkJs": true,
-
     /* Bundled projects */
-    "lib": ["dom", "dom.iterable", "ES2022"],
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "ES2022"
+    ],
     "noEmit": true,
     "module": "ESNext",
     "moduleResolution": "Bundler",
-    "jsx": "preserve",
-    "plugins": [{ "name": "next" }],
+    "jsx": "react-jsx",
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
     "incremental": true,
-
     /* Path Aliases */
     "baseUrl": ".",
     "paths": {
-      "~/*": ["./src/*"],
+      "~/*": [
+        "./src/*"
+      ]
     },
-
-    "types": ["node", "vitest/globals", "testcontainers"],
+    "types": [
+      "node",
+      "vitest/globals",
+      "testcontainers"
+    ]
   },
   "include": [
     ".eslintrc.cjs",
@@ -39,7 +49,10 @@
     "**/*.cjs",
     "**/*.js",
     ".next/types/**/*.ts",
-    "test/**/*.ts"
+    "test/**/*.ts",
+    ".next/dev/types/**/*.ts"
   ],
-  "exclude": ["node_modules"]
+  "exclude": [
+    "node_modules"
+  ]
 }
