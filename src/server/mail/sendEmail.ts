@@ -8,7 +8,7 @@ export async function sendEmail(mail: string, token: string) {
     const data = await resend.emails.send({
       from: "diaryappwithai@peach-fi-zz.org",
       to: mail,
-      subject: "Hello world",
+      subject: "ChatDiaryアカウント登録のお知らせ",
       react: EmailTemplate({ mail: mail, token: token }),
     });
     return data;
