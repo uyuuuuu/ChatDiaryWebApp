@@ -9,6 +9,9 @@ AIとのチャット形式で日記を作成するwebアプリです。
 ## 担当
 プロジェクトリーダー、バックエンド、UIデザイン、ロゴデザイン
 
+## デモ動画
+https://drive.google.com/file/d/1tAs6twaZ2TvKqUaVfph4ylLsQaRBmhLf/view?usp=drive_link
+
 ## スライド
 https://docs.google.com/presentation/d/14vMjdI7lIXOCuJzLdsrLxZfBCUXR1j3cASJJJRCXviQ/edit?usp=sharing
 
